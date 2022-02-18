@@ -10,7 +10,7 @@ import { FE_CATEGORY_CONSTANT_ROUTES, FE_ADMIN_CONSTANT_ROUTES } from "./FEConst
 
 export const routes = [
   {
-    path: "/admin",
+    path: "/20211-team-1/admin",
     children:[
       { path: FE_ADMIN_CONSTANT_ROUTES.login.path, element: <LogIn title="Báo mới nà"/>},
       { path: FE_ADMIN_CONSTANT_ROUTES.reset_password.path, element:  <ResetPassword/>},
@@ -20,7 +20,7 @@ export const routes = [
     ]
   },
   {
-    path: "/",
+    path: "/20211-team-1/",
     element: <Layout />,
     children: [
       { index: true, element: <Home /> },
