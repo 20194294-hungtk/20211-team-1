@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/20211-team-1/static/css/main.be105cc8.css",
+    "main.js": "/20211-team-1/static/js/main.7568a9ff.js",
+    "static/media/section-2.png": "/20211-team-1/static/media/section-2.7e1748fb4577fb527717.png",
+    "static/media/section-4.png": "/20211-team-1/static/media/section-4.0e979b24b161a8e40855.png",
+    "static/media/section-3.png": "/20211-team-1/static/media/section-3.24074a3c52af99bc9dd6.png",
+    "static/media/ad-aside.png": "/20211-team-1/static/media/ad-aside.343161834340cf6a3c36.png",
+    "static/media/section-1.png": "/20211-team-1/static/media/section-1.f74b2872403561b93d56.png",
+    "static/media/section-5.png": "/20211-team-1/static/media/section-5.3f06369eb20ee9b3bac5.png",
+    "static/media/Ad.png": "/20211-team-1/static/media/Ad.b03c5b1197bc32bb5b89.png",
+    "static/media/Loading.gif": "/20211-team-1/static/media/Loading.d1d8b7175bff5d1e3b3e.gif",
+    "static/media/image-gallery.png": "/20211-team-1/static/media/image-gallery.049e19792c99759e3aa6.png",
+    "static/media/Logo.png": "/20211-team-1/static/media/Logo.a47fff7ae87f3f7ed7ed.png",
+    "static/media/LogoFooter.png": "/20211-team-1/static/media/LogoFooter.b1337c16e20b8e84c577.png",
+    "index.html": "/20211-team-1/index.html",
+    "main.be105cc8.css.map": "/20211-team-1/static/css/main.be105cc8.css.map",
+    "main.7568a9ff.js.map": "/20211-team-1/static/js/main.7568a9ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be105cc8.css",
+    "static/js/main.7568a9ff.js"
+  ]
+}
