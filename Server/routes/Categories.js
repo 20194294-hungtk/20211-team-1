@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const CategoryController = require("../controller/CategoryController");
-const Verify = require("../util/Verify");
+const Verify = require("../util/verify");
 
 /**
  * @swagger

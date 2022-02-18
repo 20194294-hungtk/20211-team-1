@@ -169,7 +169,7 @@ class ArticleRouter {
 
   async hideArticle(req, res, next) {
     try {
-      const time = Date.now() - 1800000
+      const time = Date.now() - 86400000
       console.log(time)
       Article.updateMany({ isShow: true, releaseTime: { $lt: time } }, { isShow: false })
         .then((result) => {

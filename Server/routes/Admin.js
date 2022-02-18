@@ -2,7 +2,7 @@ const express = require('express');
 const AdminController = require('../controller/AdminController');
 const Admin = require('../models/Admin');
 const router = express.Router();
-const Verify = require('../util/Verify');
+const Verify = require('../util/verify');
 
 /**
  * @swagger

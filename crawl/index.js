@@ -1,7 +1,7 @@
 const cron = require("node-cron");
 let shell = require("shelljs")
 require("dotenv").config();
-cron.schedule("* * * * *", () => {// run every day at 6am
+cron.schedule("0 6 * * *", () => {// run every day at 6am
     console.log("Scheduler running ...");
     console.log("Running nhandan.js")
     shell.exec("node ./src/nhandan.js")
